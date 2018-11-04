@@ -1,0 +1,19 @@
+html, body {
+    margin: 0;
+}
+
+#app {
+    width: 100%;
+    margin: 0 auto;
+}
+
+img {
+    /* width: 100vw; */
+    height: 80vh;
+}
+
+.contents{
+    width: 100%;
+    font-size: 60px;
+    padding: 0 10%;
+}
